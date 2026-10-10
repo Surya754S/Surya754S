@@ -42,16 +42,18 @@ const surya = {
     funFact: "I love turning repetitive manual tests into automation!",
     
     motto: "Automate the repetitive. Improve the reliable."}
-•	🔭 Currently working as an Automation Test Engineer at Tata Consultancy Services (TCS).
-•	🚀 Built automation frameworks for two business-critical enterprise airline web applications from scratch.
-•	⚡ Helped reduce regression testing from several weeks of manual execution to just a few hours through automation.
-•	🧪 Experienced in end-to-end testing, API validation, regression testing, and reusable test architecture.
-•	🏗️ Passionate about maintainable automation frameworks, software quality, and continuous testing.
-•	☁️ Exploring cloud technologies across Microsoft Azure and Amazon Web Services.
-•	🤝 Interested in collaborating on test automation, Playwright, and quality engineering projects.
-📫 Email: surya.nagarajan.eng@gmail.com
-📱 Phone: 9750579581
-💼 LinkedIn: https://www.linkedin.com/in/surya-nagarajan-09a354245/
+    
+- 🔭 Currently working as an **Automation Test Engineer at Tata Consultancy Services (TCS)**.
+- 🚀 Built automation frameworks for two business-critical enterprise airline web applications from scratch.
+- ⚡ Helped reduce regression testing from several weeks of manual execution to just a few hours through automation.
+- 🧪 Experienced in end-to-end testing, API validation, regression testing, and reusable test architecture.
+- 🏗️ Passionate about maintainable automation frameworks, software quality, and continuous testing.
+- ☁️ Exploring cloud technologies across Microsoft Azure and Amazon Web Services.
+- 🤝 Interested in collaborating on test automation, Playwright, and quality engineering projects.
+
+📬 **Email:** [surya.nagarajan.eng@gmail.com](mailto:surya.nagarajan.eng@gmail.com)  
+📱 **Phone:** 9750579581  
+💼 **LinkedIn:** [surya-nagarajan](https://www.linkedin.com/in/surya-nagarajan-09a354245/)
 ________________________________________
 🛠️ Tech Stack & Tools
 💻 Languages
