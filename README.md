@@ -11,7 +11,7 @@
 
 <!-- PROFILE BADGES -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=SURYA754S"> <img src="https://komarev.com/ghpvc/?username=SURYA754S&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="Profile views" /> </a> 
+  <a href="https://github.com/SURYA754S"><img src="https://hits.sh/github.com/SURYA754S/SURYA754S.svg?style=flat-square&label=PROFILE%20VIEWS&color=70A5FD" alt="Profile views" /></a>
   <img src="https://img.shields.io/badge/Role-Automation%20Test%20Engineer-70A5FD?style=flat-square" alt="Role" />
   <img src="https://img.shields.io/badge/Focus-Test%20Automation-BF91F3?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-India-38BDAE?style=flat-square" alt="Location" />
