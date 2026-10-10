@@ -52,7 +52,7 @@ const surya = {
 •	🤝 Interested in collaborating on test automation, Playwright, and quality engineering projects.
 📫 Email: surya.nagarajan.eng@gmail.com
 📱 Phone: 9750579581
-💼 LinkedIn: https://www.linkedin.com/in/surya-nagarajan-09a354245?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn: https://www.linkedin.com/in/surya-nagarajan-09a354245/
 ________________________________________
 🛠️ Tech Stack & Tools
 💻 Languages
