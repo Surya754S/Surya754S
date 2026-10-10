@@ -41,8 +41,7 @@ const surya = {
 
     funFact: "I love turning repetitive manual tests into automation!",
     
-    motto: "Automate the repetitive. Improve the reliable."
-};
+    motto: "Automate the repetitive. Improve the reliable."}
 •	🔭 Currently working as an Automation Test Engineer at Tata Consultancy Services (TCS).
 •	🚀 Built automation frameworks for two business-critical enterprise airline web applications from scratch.
 •	⚡ Helped reduce regression testing from several weeks of manual execution to just a few hours through automation.
