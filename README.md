@@ -1,12 +1,29 @@
 🌟 Surya N | Automation Test Engineer
 <!-- HERO BANNER -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surya%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Automation%20Test%20Engineer%20%7C%20Playwright%20%7C%20API%20Testing&descAlignY=62&descSize=16" width="100%" alt="Surya N - Automation Test Engineer" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surya%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Automation%20Test%20Engineer%20%7C%20Playwright%20%7C%20API%20Testing&descAlignY=62&descSize=16" width="100%" alt="Surya N - Automation Test Engineer" />
+</p>
+
 <!-- TYPING HEADER -->
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Automation+Test+Engineer;Playwright+%7C+Page+Object+Model;API+Testing+%7C+Regression+Testing;Building+Scalable+Test+Automation" alt="Typing SVG" /> </p>
-<p align="center"> <a href="https://komarev.com/ghpvc/?username=SURYA754S"> <img src="https://komarev.com/ghpvc/?username=SURYA754S&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="Profile views" /> </a> <img src="https://img.shields.io/badge/Role-Automation%20Test%20Engineer-70A5FD?style=flat-square" alt="Role" /> <img src="https://img.shields.io/badge/Focus-Test%20Automation-BF91F3?style=flat-square" alt="Focus" /> <img src="https://img.shields.io/badge/Location-India-38BDAE?style=flat-square" alt="Location" /> </p>
-________________________________________
-👨‍💻 About Me
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Automation+Test+Engineer;Playwright+%7C+Page+Object+Model;API+Testing+%7C+Regression+Testing;Building+Scalable+Test+Automation" alt="Typing SVG" />
+</p>
+
+<!-- PROFILE BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SURYA754S&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Role-Automation%20Test%20Engineer-70A5FD?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Test%20Automation-BF91F3?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-India-38BDAE?style=flat-square" alt="Location" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding animation" />
+
+```javascript
 const surya = {
     name: "Surya N",
     role: "Automation Test Engineer",
@@ -24,35 +41,26 @@ const surya = {
         "AWS"
     ],
 
-    testing: [
-        "UI Automation",
-        "API Testing",
-        "Regression Testing",
-        "Performance Testing"
-    ],
-
-    architecture: "Page Object Model (POM)",
-
     currentlyLearning: [
         "Advanced Playwright",
-        "Scalable Automation Frameworks",
-        "CI/CD and Test Automation"
+        "Automation Framework Design",
+        "CI/CD Testing"
     ],
 
     funFact: "I love turning repetitive manual tests into automation!",
-    
-    motto: "Automate the repetitive. Improve the reliable."}
-    
+    motto: "Automate the repetitive. Improve the reliable."
+};
+```
+
 - 🔭 Currently working as an **Automation Test Engineer at Tata Consultancy Services (TCS)**.
 - 🚀 Built automation frameworks for two business-critical enterprise airline web applications from scratch.
-- ⚡ Helped reduce regression testing from several weeks of manual execution to just a few hours through automation.
+- ⚡ Helped reduce regression testing from several weeks of manual execution to a few hours.
 - 🧪 Experienced in end-to-end testing, API validation, regression testing, and reusable test architecture.
-- 🏗️ Passionate about maintainable automation frameworks, software quality, and continuous testing.
-- ☁️ Exploring cloud technologies across Microsoft Azure and Amazon Web Services.
-- 🤝 Interested in collaborating on test automation, Playwright, and quality engineering projects.
+- 🏗️ Passionate about maintainable automation frameworks and software quality.
+- ☁️ Exploring Microsoft Azure and Amazon Web Services.
+- 🤝 Interested in collaborating on Playwright and quality engineering projects.
 
 📬 **Email:** [surya.nagarajan.eng@gmail.com](mailto:surya.nagarajan.eng@gmail.com)  
-📱 **Phone:** 9750579581  
 💼 **LinkedIn:** [surya-nagarajan](https://www.linkedin.com/in/surya-nagarajan-09a354245/)
 ________________________________________
 🛠️ Tech Stack & Tools
